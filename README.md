@@ -9,6 +9,14 @@ This is a simple set of wrapper scripts to quickly spin up a local [Realm Wiki](
 
 Currently the launcher scripts are only tested with Ubuntu 18.10. They may work under OSX, but are untested. 
 
+## Setup
+
+edit start-wiki.sh and set the REPOSRC to your wiki repo
+
+```
+REPOSRC=https://github.com/themizan/team-wiki-template.git
+```
+
 ## Usage
 
 __To start__
