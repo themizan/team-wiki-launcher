@@ -11,7 +11,7 @@ Currently the launcher scripts are only tested with Ubuntu 18.10. They may work 
 
 ## Setup
 
-edit start-wiki.sh and set the REPOSRC to your wiki repo
+edit __start-wiki.sh__ and set the REPOSRC to your wiki repo
 
 ```
 REPOSRC=https://github.com/themizan/team-wiki-template.git
